@@ -46,7 +46,7 @@ The dashboard helps stakeholders monitor key business metrics and make data-driv
 
 ## 📷 Dashboard Preview
 
-![Blinkit Dashboard](dashboard_screenshot.png)
+![Blinkit Dashboard](https://github.com/MadhumithaSS19/Blinkit-Sales-Customer-Insights-Dashboard/blob/ad0f936194901243c4ccc5f07447b9c1efd0cbe2/MADHUMITHA%20S%20S-Blinkit%20screeenshot.png)
 
 ---
 
